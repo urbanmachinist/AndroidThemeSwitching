@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme_Day" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="VariableTextColor">@color/Green</item>
+        <item name="VariableBackgroundColor">@color/White</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+
+    <style name="Theme_Night" parent="@style/Theme.AppCompat.NoActionBar">
+        <item name="VariableTextColor">@color/Red</item>
+        <item name="VariableBackgroundColor">@color/Black</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>
